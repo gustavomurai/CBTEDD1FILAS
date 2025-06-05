@@ -14,3 +14,4 @@ Este projeto é um sistema simples de gerenciamento de senhas para atendimento, 
 - ✅ Validação para impedir saída com senhas ainda pendentes
 
 ---
+✅ Versão de ponteiro e vetor disponivel
